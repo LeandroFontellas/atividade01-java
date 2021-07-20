@@ -62,7 +62,7 @@ public class RevistaPainel extends JFrame implements ActionListener {
         JPanel panel3 = new JPanel();
         JPanel panel4 = new JPanel();
          
-        panel2.setBorder(BorderFactory.createTitledBorder("Livros"));
+        panel2.setBorder(BorderFactory.createTitledBorder("Revistas"));
          
         BoxLayout layout4 = new BoxLayout(panel4, BoxLayout.X_AXIS);
         BoxLayout layout3 = new BoxLayout(panel3, BoxLayout.Y_AXIS);
